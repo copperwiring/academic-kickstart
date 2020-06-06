@@ -66,7 +66,7 @@ user_groups:
 - Visitors
 ---
 
-I am currently a graduate research assistant at Networked Robotics and Sensing Laboratory under the supervision of (Prof. Shahram Payandeh)[https://www.sfu.ca/engineering/faculty-and-staff/faculty/shahram_payandeh.html!]
+I am currently a graduate research assistant at Networked Robotics and Sensing Laboratory under the supervision of [Prof. Shahram Payandeh](https://www.sfu.ca/engineering/faculty-and-staff/faculty/shahram_payandeh.html!).
 
 Organizer:
 1. WiML'19 (co-hosted with NeuRIPS) (https://wimlworkshop.org/2019/)
