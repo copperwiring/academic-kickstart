@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2019-11-10 12:38:00 -0700
+date: 2019-08-1 12:38:00 -0700
 ---
 
 When we do machine learning, a lot of time, we use vectors to perform any computation. The same thing can be done using the traditional method of loops too. Let's see how.
