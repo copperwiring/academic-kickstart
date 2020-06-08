@@ -28,6 +28,6 @@ header:
 
 * 3/19: I was the workshop facilitator for [Global Diversity CFP day](https://ti.to/vancouver-global-diversity-cfp-day/global-diversity-cfp-day-yvr-2020/en), Vancouver. You can read about the attendee experience [here](https://www.linkedin.com/pulse/how-become-tech-conference-speaker-key-takeaways-from-wen-cai/).
 
-* 8/18: I am the founding [organizer](http://wimlds.org/about-the-vancouver-team/) of Women in Machine Learning and Data Science chapter of Vancouver.
+* 8/18: I am the founding organizer of [Women in Machine Learning and Data Science](http://wimlds.org/about-the-vancouver-team/) chapter of Vancouver.
  
 * 5/18: I will be mentoring the robotics team in the [AI4ALL](https://www.sfu.ca/computing/inventthefuture/past-cohorts/2018-program.html) program at Simon Fraser University.

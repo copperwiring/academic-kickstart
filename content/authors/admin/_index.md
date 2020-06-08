@@ -43,9 +43,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:srishtiy@sfu.ca'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/_srishtiyadav
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/_srishtiyadav
 - icon: linkedin
   icon_pack: fab
   link: https://linkedin.com/in/srishti-yadav
