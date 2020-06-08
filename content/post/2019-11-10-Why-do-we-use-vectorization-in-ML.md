@@ -1,16 +1,21 @@
 ---
 layout: post
-title: "Why do we use vectorization in Machine Learning?"
+title: "Vectorization in machine learning"
 date: 2019-11-10 12:38:00 -0700
 comments: true
 tags: technical
 ---
 
+
+
+When we do machine learning, a lot of time, we use vectors to perform any computation. let us see few examples of vectors we come across any machine learning or dep leaning mathematics:
+
+
 Example 1: $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
 Example 2: \(ax^2 + bx + c = 0\)
 
-When we do machine learning, a lot of time, we use vectors to perform any computation. The same thing can be done using the traditional method of loops too. Let's see how.
+The same thing can be done using the traditional method of loops too. Let's see how.
 
 We will write a small code to take the dot problem of two numbers. For the vectorized method, we'll use numpy library and for non-vectorized method, we'll use the traditional for loop.
 
