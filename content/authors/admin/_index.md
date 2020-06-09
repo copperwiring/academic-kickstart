@@ -60,9 +60,9 @@ social:
   link: https://github.com/copperwiring
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "srishtiy@sfu.ca"
@@ -78,8 +78,8 @@ I am currently a graduate research assistant at Networked Robotics and Sensing L
 
 I am also currently doing an internship at [UrtheCast](https://www.urthecast.com/) where I am responsible for developing computationally intensive image processing algorithms for large scale satellite data within a cloud-based infrastructure using deep learning.
 
-Over the course of my work experience,  have developed excellent skills in PyTorch, TensorFlow, Python, MATLAB, Numpy, Scipy, OpenCV, Matplotlib, GDAL, etc. scientific stack as well as cloud services like AWS.
+Over the course of my work experience, I have developed excellent skills in PyTorch, TensorFlow, Python, MATLAB, Numpy, Scipy, OpenCV, Matplotlib, GDAL, etc. scientific stack as well as cloud services like AWS.
 
 I am an active member of developer community groups of Vancouver where I run [Women in Machine Learning and Data Science meetup](https://www.meetup.com/Vancouver-Women-in-Machine-Learning-and-Data-Science/), [Google Developers Group](https://www.meetup.com/gdg-burnaby/) and [Vancouver OpenCV meetup](https://www.meetup.com/Vancouver-OpenCV-Meetup/). As a strong proponent of tech and diversity, my involvement goes beyond local community work. I am currently one of the the [chairs](https://sites.google.com/view/wicvworkshop-cvpr2020/committee) of [Women in Computer Vision workshop](https://sites.google.com/view/wicvworkshop-cvpr2020/) co-hosted with [CVPR, 2020](http://cvpr2020.thecvf.com/) and was on the [committe](https://wimlworkshop.org/2019/committee/) of the [Women in Machine Learning workshop, 2019](https://wimlworkshop.org/2019/).
 
-If you have questions about my any of work, feel free to reach out to me via email. I'll be happy to chat!
+If you have questions about any of my work, feel free to reach out to me via email. I'll be happy to chat!

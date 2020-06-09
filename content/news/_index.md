@@ -12,7 +12,7 @@ header:
   caption: ""
   image: ""
 ---
-* 06/20: I gave a talk on 'A Field Guide to TensorFlow Contributions' at Microsoft Open Source Software event, 2019. My talk can be watched [here](https://www.youtube.com/watch?v=-k-g89bo6zU). The slides of the talk can be seen [here](https://github.com/copperwiring/A-Field-Guide-To-TensorFlow-Contribution).
+* 01/20: I gave a talk on 'A Field Guide to TensorFlow Contributions' at Microsoft Open Source Software event. My talk can be watched [here](https://www.youtube.com/watch?v=-k-g89bo6zU). The slides of the talk can be seen [here](https://github.com/copperwiring/A-Field-Guide-To-TensorFlow-Contribution).
 
 * 01/20: I was a [panelist](https://vancouverwitregatta2020.sched.com/event/WVhE/a-discourse-on-ethics-data-technology) at Women in Tech Regatta 2019 on the topic 'Debaising AI in a Changing World'. The panel was moderated by Steve Eccles (Regional CEO and Dean, Northeastern University). I joined other great panelists which included Krista Richmond (Director, Digital Innovation & Partnerships, Technical Safety BC) and Piyali Dey (Program Manager, Cloud Developer Relations, Microsoft).
 
