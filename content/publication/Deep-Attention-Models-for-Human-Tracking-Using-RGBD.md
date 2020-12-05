@@ -1,5 +1,5 @@
 ---
-title: " Deep Attention Models for Human Tracking Using RGBD "
+title: " Deep Attention Models for Human Tracking Using RGBD (Poster @NeurIPS, 2020)"
 authors:
 - Maryamsadat Rasoulidanesh
 - Srishti Yadav
@@ -29,7 +29,7 @@ tags:
 featured: true
 
 links:
-url_pdf: https://www.mdpi.com/1424-8220/19/4/750/pdf
+url_pdf: https://www.mdpi.com/1424-8220/19/4/750/htm
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

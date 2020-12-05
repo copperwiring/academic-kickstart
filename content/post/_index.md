@@ -13,6 +13,7 @@ header:
   image: ""
 ---
 
+This page is yet to be updated.
 
 <!-- * Get it from [github](https://github.com/scotte/jekyll-clean).
 * See the [live demo](https://scotte.github.io/jekyll-clean).

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Accessing Windows File From Linux Subshell"
-date: 2019-11-06 01:25:06 -0700
+# date: 2019-11-06 01:25:06 -0700
 comments: true
 tags: Geekout
 ---

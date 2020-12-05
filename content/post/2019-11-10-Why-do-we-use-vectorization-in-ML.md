@@ -1,12 +1,10 @@
 ---
 layout: post
 title: "Vectorization in machine learning"
-date: 2019-11-10 12:38:00 -0700
+# date: 2019-11-10 12:38:00 -0700
 comments: true
 tags: technical
 ---
-
-
 
 When we do machine learning, a lot of time, we use vectors to perform any computation. let us see few examples of vectors we come across any machine learning or dep leaning mathematics:
 

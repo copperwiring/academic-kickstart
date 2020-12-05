@@ -31,7 +31,7 @@ tags:
 featured: true
 
 links:
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: https://www.researchgate.net/profile/Varun_Dutt/publication/320719673_A_Low-Cost_IoT_Framework_for_Landslide_Prediction_and_Risk_Communication/links/5aae399d458515ecebe8369b/A-Low-Cost-IoT-Framework-for-Landslide-Prediction-and-Risk-Communication.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
