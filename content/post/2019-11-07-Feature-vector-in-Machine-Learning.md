@@ -4,6 +4,7 @@ title: "Feature Vector in Machine Learning"
 # date: 2019-11-07 22:21:06 -0700
 comments: true
 tags: technical
+draft: true
 ---
 
 
